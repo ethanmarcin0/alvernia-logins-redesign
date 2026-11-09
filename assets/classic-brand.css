@@ -1,0 +1,646 @@
+/* Classic palette matched to Alvernia's public homepage theme, November 2026.
+   Source: https://www.alvernia.edu/themes/custom/bs5_alvernia/css/style.css
+   Maroon #9B2743, gold #EAAA00, neutrals #F3F3F3 and #D1D3D4.
+   Soft interaction tints are derived from those brand colors. */
+.classic {
+  --maroon: #9b2743;
+  --maroon-dark: #711533;
+  --gold: #eaaa00;
+  --gold-light: #eaaa00;
+  --ink: #19232b;
+  --muted: #565b5e;
+  --line: #d1d3d4;
+  --paper: #f3f3f3;
+}
+.classic .site-header {
+  border-bottom: 2px solid var(--maroon);
+}
+.classic .concept-bar {
+  background: #f3f3f3;
+  color: var(--muted);
+}
+.classic .segments {
+  background: #e9e9e9;
+}
+.classic .segments button[aria-pressed="true"] {
+  background: var(--maroon);
+  color: #fff;
+}
+.classic .segments button:not([aria-pressed="true"]):hover {
+  background: #fff;
+  color: var(--maroon);
+}
+.classic .account-help {
+  background: #f3f3f3;
+  border-color: var(--line);
+}
+.classic .help-eyebrow {
+  color: var(--maroon);
+}
+.classic .help-icon {
+  background: #f6e9ed;
+}
+.classic .saved-filter > span:last-child {
+  background: #e5e5e5;
+}
+.classic .saved-filter:hover {
+  background: #e9e9e9;
+}
+.classic .saved-filter[aria-pressed="true"] {
+  background: #f6e9ed;
+  border-color: var(--maroon);
+  color: var(--maroon);
+}
+.classic .service-card:hover,
+.classic .quick-card:hover {
+  background: #fffdf7;
+  border-color: var(--maroon);
+  box-shadow: 0 5px 12px rgb(155 39 67 / 7%);
+}
+.classic .secondary-links a {
+  color: var(--maroon);
+}
+.classic .save-button:hover,
+.classic .save-button.is-saved {
+  background: #fff5d6;
+  color: #765100;
+}
+.classic .save-button.is-saved svg {
+  fill: var(--gold);
+}
+.classic :focus-visible {
+  outline-color: var(--maroon);
+}
+.classic .search-wrap:focus-within {
+  outline-color: var(--maroon);
+}
+.classic .site-footer {
+  background: var(--maroon);
+}
+.classic .footer-inner > p,
+.classic .footer-inner > div span {
+  color: #fff;
+}
+/* Keep the Classic miniature on the comparison page in sync. */
+.comparison .concept-card:first-child .concept-preview {
+  --maroon: #9b2743;
+  background: #f3f3f3;
+}
+@media (max-width:800px) {
+  .classic .account-help {
+    background: transparent;
+    border: 0;
+  }
+}
+/* Readability and balanced audience sections. Keep document and visual order aligned. */
+.classic .header-inner {
+  min-height: 122px;
+  height: auto;
+  padding-block: 18px;
+}
+.classic .brand img {
+  width: 260px;
+  height: auto;
+}
+.classic .header-inner nav {
+  font-size: 14px;
+}
+.classic .intro-content h1 {
+  font-size: 76px;
+  line-height: 1.08;
+  font-weight: 600;
+  letter-spacing: -1.5px;
+}
+.classic .intro-copy {
+  font-size: 16px;
+  max-width: 640px;
+}
+.classic .search-block label {
+  font-size: 14px;
+}
+.classic .search-wrap input {
+  font-size: 16px;
+}
+.classic .account-help strong {
+  font-size: 14px;
+}
+.classic .account-help small {
+  font-size: 13px;
+}
+.classic .segments button,
+.classic .saved-filter,
+.classic select {
+  font-size: 14px;
+  min-height: 44px;
+}
+.classic .saved-filter > span:last-child {
+  font-size: 12px;
+}
+.classic .text-button {
+  font-size: 13px;
+}
+.classic .section-heading h2 {
+  font-size: 32px;
+}
+.classic .quick-card strong {
+  font-size: 16px;
+}
+.classic .quick-card small {
+  font-size: 13px;
+}
+.classic .directory-heading > p {
+  font-size: 13px;
+}
+.classic .classic-groups,
+.classic .classic-groups.single-group {
+  grid-template-columns: minmax(0, 1fr);
+  gap: 32px;
+}
+.classic .group-cards {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+}
+.classic .group-heading {
+  margin-bottom: 14px;
+}
+.classic .group-heading h3 {
+  font-size: 20px;
+}
+.classic .group-heading small {
+  font-size: 13px;
+}
+.classic .service-card {
+  margin-bottom: 0;
+}
+.classic .card-info h3 {
+  font-size: 18px;
+  line-height: 1.4;
+}
+.classic .card-info > p {
+  font-size: 14px;
+  line-height: 1.6;
+}
+.classic .primary-link {
+  font-size: 14px;
+  min-height: 44px;
+}
+.classic .secondary-links a {
+  font-size: 13px;
+}
+.classic .support-intro > p:not(.eyebrow),
+.classic .support-overview,
+.classic .support-links strong,
+.classic .support-links .phone-link {
+  font-size: 14px;
+}
+.classic .support-links > a > span,
+.classic .storage-note {
+  font-size: 13px;
+}
+@media (max-width: 1100px) {
+  .classic .quick-arrow {
+    display: none;
+  }
+  .classic .quick-card {
+    padding: 18px 14px;
+  }
+}
+@media (max-width: 800px) {
+  .classic .brand img {
+    width: 220px;
+  }
+  .classic .header-inner {
+    min-height: 108px;
+    padding-block: 16px;
+  }
+  .classic .intro-content h1 {
+    font-size: 64px;
+  }
+  .classic .account-help strong {
+    font-size: 14px;
+  }
+}
+@media (max-width: 580px) {
+  .classic .brand img {
+    width: 195px;
+  }
+  .classic .header-inner {
+    min-height: 98px;
+    padding-block: 12px;
+  }
+  .classic .header-inner nav {
+    font-size: 12px;
+  }
+  .classic .intro-content h1 {
+    font-size: 56px;
+    letter-spacing: -1px;
+  }
+  .classic .intro-copy {
+    font-size: 15px;
+  }
+  .classic .search-block label {
+    font-size: 13px;
+  }
+  .classic .audience-row {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 8px;
+  }
+  .classic .segments {
+    min-width: 0;
+  }
+  .classic .segments button {
+    flex: 1;
+    min-width: 0;
+    padding: 8px 6px;
+    font-size: 12px;
+    line-height: 1.35;
+    white-space: normal;
+  }
+  .classic .saved-filter {
+    font-size: 12px;
+    padding-inline: 3px;
+  }
+  .classic select {
+    min-width: 0;
+  }
+  .classic .text-button {
+    font-size: 12px;
+    white-space: nowrap;
+  }
+  .classic .section-heading h2 {
+    font-size: 28px;
+  }
+  .classic .quick-card {
+    padding: 14px 10px;
+    min-height: 90px;
+  }
+  .classic .quick-card strong {
+    font-size: 15px;
+  }
+  .classic .quick-card small {
+    font-size: 12px;
+    line-height: 1.5;
+  }
+  .classic .directory-heading > p {
+    font-size: 12px;
+    max-width: 100px;
+  }
+  .classic .group-cards {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 12px;
+  }
+  .classic .group-heading h3 {
+    font-size: 18px;
+  }
+}
+.classic .group-cards > .service-card:last-child:nth-child(odd) {
+  grid-column: 1 / -1;
+}
+.classic .quick-grid:not(:has(.quick-card:nth-child(3))) {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+/* University header navigation, matching the supplied current-site reference. */
+.classic .university-site-header {
+  position: relative;
+  z-index: 10;
+  background: #fff;
+}
+.classic .university-site-header .header-inner {
+  width: min(1600px, calc(100% - 64px));
+  gap: 24px;
+}
+.classic .university-site-header .brand {
+  flex: 0 0 auto;
+}
+.classic .university-header-controls {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex: 1;
+  min-width: 0;
+  gap: 22px;
+}
+.classic .header-inner nav.university-primary-nav {
+  display: block;
+  min-width: 0;
+}
+.classic .university-nav-list,
+.classic .university-link-group ul,
+.classic .university-find-results {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.classic .university-nav-list {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.classic .university-dropdown > summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  min-height: 48px;
+  padding: 10px 8px;
+  list-style: none;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.4;
+  white-space: nowrap;
+  border-radius: 5px;
+  transition: color 180ms ease, background 180ms ease;
+}
+.classic .university-dropdown > summary::-webkit-details-marker {
+  display: none;
+}
+.classic .university-dropdown > summary::marker {
+  content: '';
+}
+.classic .university-dropdown > summary > svg {
+  flex: 0 0 auto;
+  transition: transform 180ms ease;
+}
+.classic .university-dropdown[open] > summary,
+.classic .university-dropdown > summary:hover {
+  color: var(--maroon);
+  background: #f3f3f3;
+}
+.classic .university-dropdown[open] > summary > svg:last-child {
+  transform: rotate(180deg);
+}
+.classic .university-dropdown-panel {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: min(1200px, calc(100% - 64px));
+  padding: 26px 30px 30px;
+  background: #fff;
+  border: 1px solid var(--line);
+  border-top: 3px solid var(--maroon);
+  border-bottom: 3px solid var(--maroon);
+  border-radius: 0 0 16px 16px;
+  box-shadow: 0 15px 25px rgb(25 35 43 / 14%);
+  max-height: calc(100svh - 180px);
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}
+.classic .university-panel-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  padding-bottom: 18px;
+  margin-bottom: 18px;
+  border-bottom: 1px solid var(--line);
+}
+.classic .university-panel-top > p {
+  color: var(--maroon);
+  font-size: 24px;
+  font-weight: 600;
+}
+.classic .header-inner nav a.university-overview-link {
+  color: var(--maroon);
+  font-size: 14px;
+  font-weight: 600;
+}
+.classic .university-link-columns {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 28px;
+}
+.classic .university-link-columns.columns-4 {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+.classic .university-link-group {
+  min-width: 0;
+}
+.classic .university-link-group h2 {
+  font: 600 15px/1.5 var(--font);
+  color: var(--maroon);
+  margin: 0 0 10px;
+}
+.classic .header-inner nav .university-link-group a,
+.classic .header-inner nav .university-find-results a {
+  min-height: 44px;
+  padding: 8px 0;
+  font-size: 15px;
+  line-height: 1.5;
+  overflow-wrap: anywhere;
+}
+.classic .header-inner nav .university-link-group a[aria-current="page"],
+.classic .header-inner nav .university-find-results a[aria-current="page"] {
+  color: var(--maroon);
+  font-weight: 600;
+}
+.classic .header-inner nav.university-utility-nav {
+  display: flex;
+  align-items: stretch;
+  gap: 0;
+  flex: 0 0 auto;
+}
+.classic .university-find-dropdown > summary {
+  padding: 16px 18px;
+  min-height: 58px;
+  border-radius: 32px 0 0 0;
+  background: #f3f3f3;
+  font-size: 14px;
+  letter-spacing: .3px;
+  gap: 10px;
+}
+.classic .header-inner nav a.university-inquire-link {
+  justify-content: center;
+  min-height: 58px;
+  padding: 16px 24px;
+  background: var(--maroon);
+  color: #fff;
+  border-radius: 32px 0 32px 0;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: .5px;
+  text-decoration: none;
+}
+.classic .header-inner nav a.university-inquire-link:hover {
+  background: var(--maroon-dark);
+}
+.classic .university-find-grid {
+  display: grid;
+  grid-template-columns: 1fr 1.2fr;
+  gap: 36px;
+}
+.classic .university-find-grid label {
+  display: block;
+  font-size: 15px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+.classic #university-link-search {
+  width: 100%;
+  min-height: 50px;
+  padding: 12px;
+  border: 1px solid #a2aaad;
+  border-radius: 6px;
+  background: #fff;
+  font-size: 16px;
+}
+.classic #university-find-hint {
+  margin-top: 12px;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.6;
+}
+.classic #university-find-status {
+  font-size: 14px;
+  margin-top: 18px;
+  font-weight: 600;
+}
+.classic .university-find-results {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 3px 24px;
+}
+.classic .university-find-results li {
+  min-width: 0;
+}
+.classic .university-find-empty {
+  grid-column: 1 / -1;
+  padding: 12px 0;
+  font-size: 15px;
+  color: var(--muted);
+}
+.classic .university-menu-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 9px;
+  min-height: 48px;
+  padding: 10px 14px;
+  background: #f3f3f3;
+  color: var(--maroon);
+  border: 1px solid var(--line);
+  border-radius: 7px;
+  font-size: 15px;
+  font-weight: 600;
+}
+.classic .university-menu-toggle[aria-expanded="true"] {
+  background: var(--maroon);
+  color: #fff;
+  border-color: var(--maroon);
+}
+@media (max-width: 1299px) {
+  .classic .university-site-header .header-inner {
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 0 20px;
+  }
+  .classic .university-header-controls {
+    flex: 0 0 100%;
+    display: block;
+    margin-top: 18px;
+    padding-top: 10px;
+    border-top: 1px solid var(--line);
+  }
+  .classic .university-nav-list {
+    display: block;
+  }
+  .classic .university-nav-list > li {
+    border-bottom: 1px solid var(--line);
+  }
+  .classic .university-dropdown > summary {
+    padding: 14px 6px;
+    font-size: 17px;
+    min-height: 52px;
+  }
+  .classic .university-dropdown-panel {
+    position: static;
+    width: 100%;
+    transform: none;
+    padding: 18px 16px 24px;
+    max-height: none;
+    overflow: visible;
+    overscroll-behavior: auto;
+    border: 0;
+    border-top: 2px solid var(--maroon);
+    border-radius: 0;
+    box-shadow: none;
+  }
+  .classic .university-link-columns,
+  .classic .university-link-columns.columns-4 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 24px;
+  }
+  .classic .header-inner nav.university-utility-nav {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    gap: 12px;
+    padding-top: 18px;
+  }
+  .classic .university-find-dropdown {
+    flex: 1 0 100%;
+  }
+  .classic .university-find-dropdown > summary {
+    justify-content: flex-start;
+    padding: 14px 16px;
+    border-radius: 7px;
+    font-size: 15px;
+    min-height: 50px;
+  }
+  .classic .header-inner nav a.university-inquire-link {
+    border-radius: 7px;
+    min-height: 48px;
+    padding: 12px 22px;
+  }
+  .classic .university-find-grid {
+    gap: 24px;
+  }
+}
+@media (max-width: 580px) {
+  .classic .university-site-header .header-inner {
+    width: calc(100% - 36px);
+    gap: 0 12px;
+  }
+  .classic .university-menu-toggle {
+    padding: 10px 12px;
+    font-size: 14px;
+  }
+  .classic .university-link-columns,
+  .classic .university-link-columns.columns-4,
+  .classic .university-find-grid,
+  .classic .university-find-results {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .classic .university-panel-top {
+    align-items: flex-start;
+    gap: 12px;
+  }
+  .classic .university-panel-top > p {
+    font-size: 22px;
+  }
+  .classic .header-inner nav a.university-overview-link {
+    font-size: 13px;
+  }
+}
+@media (min-width: 1300px) {
+  .classic .header-inner nav.university-primary-nav {
+    flex: 1;
+  }
+  .classic .university-nav-list {
+    justify-content: space-between;
+  }
+}
+@media (max-width: 360px) {
+  .classic .university-menu-toggle {
+    padding-inline: 6px;
+    gap: 6px;
+    font-size: 13px;
+  }
+  .classic .university-menu-toggle svg {
+    width: 20px;
+    height: 20px;
+  }
+}

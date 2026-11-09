@@ -1,0 +1,442 @@
+{
+  "source": "https://www.alvernia.edu/logins",
+  "captured": "2026-11-05",
+  "entries": [
+    {
+      "name": "Office 365 (Email, SharePoint, Teams, OneDrive, Word, etc.)",
+      "audience": "Students",
+      "links": [
+        {
+          "label": "Login",
+          "url": "https://sts.alvernia.edu/adfs/ls/?domain_hint=alvernia.edu&wa=wsignin1.0&wtrealm=urn%3afederation%3aMicrosoftOnline&wctx=%26LoginOptions%3D2%26wa%3Dwsignin1.0%26wreply%3Dhttps:%252F%252Fportal.office.com%252F"
+        },
+        {
+          "label": "Login Instructions",
+          "url": "https://alverniauniversity-my.sharepoint.com/personal/academic_support_alvernia_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Facademic%5Fsupport%5Falvernia%5Fedu%2FDocuments%2FClass%20Visit%20PPTs%20%26%20Handouts%2FAU%20Student%20Tech%20Guide%2Dlinked%20auStudentTechGuide%2Epdf&parent=%2Fpersonal%2Facademic%5Fsupport%5Falvernia%5Fedu%2FDocuments%2FClass%20Visit%20PPTs%20%26%20Handouts&ga=1"
+        },
+        {
+          "label": "Microsoft Online Password Reset",
+          "url": "https://passwordreset.microsoftonline.com/"
+        }
+      ]
+    },
+    {
+      "name": "Academic Success Center (Tutoring & Study Groups)",
+      "audience": "Students",
+      "links": [
+        {
+          "label": "Login",
+          "url": "https://alvernia.mywconline.com"
+        },
+        {
+          "label": "Grammarly Pro",
+          "url": "https://www.grammarly.com/business/join-invite-link/activate?key=zu9xld0h&q_mailing_7TWioKGK91wgspZ1KJVuuXaRUVxkLR3wgJYK5=RpGrFMGXkLCneJP2rJEnJ53vo3xzKhTB3qqabZMi6mTQS5UH2S95r376S&sid=5r8zLg7q1XzMYTeXkku8"
+        },
+        {
+          "label": "ASC FAQ's",
+          "url": "https://sway.cloud.microsoft/swTdThHqcXQdQg7w"
+        }
+      ]
+    },
+    {
+      "name": "Accommodations",
+      "audience": "Students",
+      "links": [
+        {
+          "label": "Apply (first time)",
+          "url": "https://alvernia-accommodate.symplicity.com/public_accommodation"
+        },
+        {
+          "label": "Login",
+          "url": "https://alvernia-accommodate.symplicity.com/"
+        }
+      ]
+    },
+    {
+      "name": "ARC: Alvernia Residential Communities Portal",
+      "audience": "Students",
+      "links": [
+        {
+          "label": "Login",
+          "url": "https://alvernia.erezlife.com/"
+        },
+        {
+          "label": "Spring 2027 Incoming Resident Housing Application Instructions",
+          "url": "https://www.alvernia.edu/sites/default/files/documents/Spring%202027%20Incoming%20Resident%20Housing%20Application%20Instructions.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Bookstore",
+      "audience": "Students",
+      "links": [
+        {
+          "label": "Bookstore Website",
+          "url": "https://alvernia.bkstr.com/"
+        }
+      ]
+    },
+    {
+      "name": "Canvas",
+      "audience": "Students",
+      "links": [
+        {
+          "label": "Alvernia.edu email",
+          "url": "https://alvernia.instructure.com/login/saml"
+        },
+        {
+          "label": "Catalog (personal email)",
+          "url": "https://alvernia.instructure.com/login/canvas"
+        }
+      ]
+    },
+    {
+      "name": "Complio \u2013 Alvernia Student Health Portal",
+      "audience": "Students",
+      "links": [
+        {
+          "label": "Login",
+          "url": "http://alverniacompliance.com/index.html"
+        },
+        {
+          "label": "User Guide",
+          "url": "https://alverniauniversity.sharepoint.com/sites/HealthandAcademicCompliance/Shared%20Documents/Forms/AllItems.aspx?CT=1767814993391&OR=OWA%2DNT%2DMail&CID=51c44630%2Dd415%2D1d3e%2D16b4%2D7e0bba20333e&clickParams=eyJYLUFwcE5hbWUiOiJNaWNyb3NvZnQgT3V0bG9vayBXZWIgQXBwIiwiWC1BcHBWZXJzaW9uIjoiMjAyNjAxMDIwMDMuMDEiLCJPUyI6IldpbmRvd3MgMTEifQ%3D%3D"
+        }
+      ]
+    },
+    {
+      "name": "Degree Audit uAchieve",
+      "audience": "Students",
+      "links": [
+        {
+          "label": "Login",
+          "url": "https://alvernia.uachieve.com/selfservice"
+        },
+        {
+          "label": "Student Login Instructions",
+          "url": "https://www.alvernia.edu/sites/default/files/documents/Student%20Degree%20Audit%20Directions.doc.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Get Connected Volunteer Services (Holleran Center)",
+      "audience": "Students",
+      "links": [
+        {
+          "label": "Login",
+          "url": "https://volunteer.alvernia.edu/"
+        }
+      ]
+    },
+    {
+      "name": "Handshake",
+      "audience": "Students",
+      "links": [
+        {
+          "label": "Login",
+          "url": "https://alvernia.joinhandshake.com/login"
+        },
+        {
+          "label": "Student Guide",
+          "url": "https://pax.alvernia.edu/organization/resources/documents/view/1963510"
+        }
+      ]
+    },
+    {
+      "name": "myAlvernia",
+      "audience": "Students",
+      "links": [
+        {
+          "label": "Login",
+          "url": "https://alverniauniversity.sharepoint.com/sites/AlverniaSelf-ServicePortal"
+        },
+        {
+          "label": "Parent Access",
+          "url": "https://commerce.cashnet.com/alverniapay?LT=P"
+        }
+      ]
+    },
+    {
+      "name": "Self-Service",
+      "audience": "Students",
+      "links": [
+        {
+          "label": "Login",
+          "url": "https://selfservice.alvernia.edu/SELFSERV/Home/LogIn?ReturnUrl=%2FSELFSERV%2F"
+        },
+        {
+          "label": "Login Instructions",
+          "url": "https://web.alvernia.edu/faq/index.php?action=artikel&cat=23&id=169&artlang=en&highlight=myalvernia+login&_gl=1*6gv0ka*_ga*MTI1NzM1ODg2My4xNjk4ODYzNjQ4*_ga_7LTL25YXL8*MTY5OTI5ODc2OC40LjAuMTY5OTI5ODc3MC41OC4wLjA."
+        }
+      ]
+    },
+    {
+      "name": "Omnilert",
+      "audience": "Students",
+      "links": [
+        {
+          "label": "Login",
+          "url": "https://alvernia.omnilert.net/"
+        }
+      ]
+    },
+    {
+      "name": "PAX (Promoting Alvernia eXperiences)",
+      "audience": "Students",
+      "links": [
+        {
+          "label": "Login",
+          "url": "https://pax.alvernia.edu/organizations"
+        }
+      ]
+    },
+    {
+      "name": "Print Portal",
+      "audience": "Students",
+      "links": [
+        {
+          "label": "Login",
+          "url": "https://print.alvernia.edu:9192/user"
+        }
+      ]
+    },
+    {
+      "name": "Report It",
+      "audience": "Students",
+      "links": [
+        {
+          "label": "Report",
+          "url": "https://cm.maxient.com/reporting.php?AlverniaUniv"
+        }
+      ]
+    },
+    {
+      "name": "Shuttle Services",
+      "audience": "Students",
+      "links": [
+        {
+          "label": "Learn More",
+          "url": "https://www.alvernia.edu/alvernia-shuttle-services"
+        }
+      ]
+    },
+    {
+      "name": "SoftDocs",
+      "audience": "Students",
+      "links": [
+        {
+          "label": "Etrieve | Content",
+          "url": "https://alvernia.etrieve.cloud/central/forms"
+        }
+      ]
+    },
+    {
+      "name": "Transferology",
+      "audience": "Students",
+      "links": [
+        {
+          "label": "Learn More",
+          "url": "https://www.transferology.com/school/alvernia"
+        }
+      ]
+    },
+    {
+      "name": "Typhon- DNP Clinical and Professional Documents",
+      "audience": "Students",
+      "links": [
+        {
+          "label": "Login",
+          "url": "https://www3.typhongroup.net/np/data/login.asp?facility=3090"
+        },
+        {
+          "label": "Instructions",
+          "url": "https://web.alvernia.edu/faq/index.php?action=artikel&cat=23&id=269&artlang=en"
+        }
+      ]
+    },
+    {
+      "name": "Accommodations",
+      "audience": "Faculty/Staff",
+      "links": [
+        {
+          "label": "Login",
+          "url": "https://alvernia-accommodate.symplicity.com/"
+        }
+      ]
+    },
+    {
+      "name": "Astra Event Scheduler",
+      "audience": "Faculty/Staff",
+      "links": [
+        {
+          "label": "Login",
+          "url": "https://www.aaiscloud.com/alverniau"
+        },
+        {
+          "label": "Login Instructions",
+          "url": "https://pax.alvernia.edu/organization/resources/documents/view/967409"
+        }
+      ]
+    },
+    {
+      "name": "AUAdvise",
+      "audience": "Faculty/Staff",
+      "links": [
+        {
+          "label": "Login",
+          "url": "https://alvernia.campus.eab.com/cas/schools/318-alvernia_university/ldap_sessions/new"
+        },
+        {
+          "label": "FAQs",
+          "url": "https://alvernia.topdesk.net/tas/public/ssp/content/detail/knowledgeitem?origin=knowledgeBaseStartPage&unid=73a9c7db4cc74d19b50613fc5b394ae1&from=0da67a3b-d66d-4bdf-a627-d1a3ae4059dd"
+        }
+      ]
+    },
+    {
+      "name": "Book Store",
+      "audience": "Faculty/Staff",
+      "links": [
+        {
+          "label": "Faculty Login",
+          "url": "https://adoptions.efollett.com/OnlineAdoptionsWeb/onlineAdoptions.html?storeNumber=562&langId=en_US"
+        }
+      ]
+    },
+    {
+      "name": "Canvas",
+      "audience": "Faculty/Staff",
+      "links": [
+        {
+          "label": "Login",
+          "url": "https://alvernia.instructure.com/login/saml"
+        }
+      ]
+    },
+    {
+      "name": "Degree Audit uAchieve",
+      "audience": "Faculty/Staff",
+      "links": [
+        {
+          "label": "Login",
+          "url": "https://alvernia.uachieve.com/selfservice"
+        },
+        {
+          "label": "Advisor Login Instructions",
+          "url": "https://www.alvernia.edu/sites/default/files/documents/Advisor%20Degree%20Audit%20Directions_0.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Facilities Work Order",
+      "audience": "Faculty/Staff",
+      "links": [
+        {
+          "label": "Login",
+          "url": "http://www.myschoolbuilding.com/myschoolbuilding/mygateway.asp?acctnum=102547668"
+        }
+      ]
+    },
+    {
+      "name": "Finance",
+      "audience": "Faculty/Staff",
+      "links": [
+        {
+          "label": "ADP Workforce Now (Payroll Provider)",
+          "url": "http://www.workforcenow.adp.com"
+        },
+        {
+          "label": "PN3 for Payables",
+          "url": "https://pn3.alvernia.edu/PN3Payables"
+        },
+        {
+          "label": "PN3 for Requisitions",
+          "url": "https://pn3.alvernia.edu/PN3Requisition"
+        }
+      ]
+    },
+    {
+      "name": "Office 365 (Email, SharePoint, Teams, OneDrive, Word, etc.)",
+      "audience": "Faculty/Staff",
+      "links": [
+        {
+          "label": "Login",
+          "url": "https://sts.alvernia.edu/adfs/ls/?domain_hint=alvernia.edu&wa=wsignin1.0&wtrealm=urn%3afederation%3aMicrosoftOnline&wctx=%26LoginOptions%3D2%26wa%3Dwsignin1.0%26wreply%3Dhttps:%252F%252Fportal.office.com%252F"
+        },
+        {
+          "label": "Login Instructions",
+          "url": "https://alverniauniversity-my.sharepoint.com/personal/academic_support_alvernia_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Facademic%5Fsupport%5Falvernia%5Fedu%2FDocuments%2FClass%20Visit%20PPTs%20%26%20Handouts%2FAU%20Student%20Tech%20Guide%2Dlinked%20auStudentTechGuide%2Epdf&parent=%2Fpersonal%2Facademic%5Fsupport%5Falvernia%5Fedu%2FDocuments%2FClass%20Visit%20PPTs%20%26%20Handouts&ga=1"
+        },
+        {
+          "label": "Microsoft Online Password Reset",
+          "url": "https://passwordreset.microsoftonline.com/"
+        }
+      ]
+    },
+    {
+      "name": "Panopto",
+      "audience": "Faculty/Staff",
+      "links": [
+        {
+          "label": "Login",
+          "url": "https://alvernia.hosted.panopto.com/Panopto/Pages/Home.aspx"
+        },
+        {
+          "label": "FAQs",
+          "url": "https://web.alvernia.edu/faq/index.php?action=show&cat=79"
+        },
+        {
+          "label": "What can Panopto do for you?",
+          "url": "https://alvernia.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d931479e-f376-453f-916c-08f61772cd6b"
+        }
+      ]
+    },
+    {
+      "name": "SoftDocs",
+      "audience": "Faculty/Staff",
+      "links": [
+        {
+          "label": "Etrieve | Content",
+          "url": "https://alvernia.etrieve.cloud/central/forms"
+        }
+      ]
+    },
+    {
+      "name": "Transferology",
+      "audience": "Faculty/Staff",
+      "links": [
+        {
+          "label": "Learn More",
+          "url": "https://www.transferology.com/school/alvernia"
+        },
+        {
+          "label": "Email registrar",
+          "url": "mailto:RegistrarsOffice@alvernia.edu"
+        }
+      ]
+    },
+    {
+      "name": "University Credit Card Spend Management",
+      "audience": "Faculty/Staff",
+      "links": [
+        {
+          "label": "Access Online",
+          "url": "https://www.access-online.com/cpsApp1/AxolPreAuthServlet?requestCmdId=login"
+        }
+      ]
+    },
+    {
+      "name": "WEAVE",
+      "audience": "Faculty/Staff",
+      "links": [
+        {
+          "label": "Login",
+          "url": "https://app.weaveeducation.com/login"
+        },
+        {
+          "label": "Login Instruction",
+          "url": "https://pax.alvernia.edu/organization/resources/documents/view/1897144"
+        }
+      ]
+    }
+  ]
+}

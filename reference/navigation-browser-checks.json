@@ -1,0 +1,210 @@
+{
+  "date": "2026-11-09",
+  "browser": "Codex in-app browser",
+  "source": "https://www.alvernia.edu/logins",
+  "viewports": [
+    "1440x1000",
+    "1300x1000",
+    "768x1024",
+    "375x812",
+    "320x812"
+  ],
+  "checks": [
+    {
+      "name": "Desktop menu 0",
+      "links": 22,
+      "open": [
+        "About"
+      ],
+      "overflow": false
+    },
+    {
+      "name": "Desktop menu 1",
+      "links": 16,
+      "open": [
+        "Academics"
+      ],
+      "overflow": false
+    },
+    {
+      "name": "Desktop menu 2",
+      "links": 18,
+      "open": [
+        "Admissions & Aid"
+      ],
+      "overflow": false
+    },
+    {
+      "name": "Desktop menu 3",
+      "links": 19,
+      "open": [
+        "Student Experience"
+      ],
+      "overflow": false
+    },
+    {
+      "name": "Desktop menu 4",
+      "links": 12,
+      "open": [
+        "Resources"
+      ],
+      "overflow": false
+    },
+    {
+      "name": "Outside click closes menus",
+      "openCount": 0
+    },
+    {
+      "name": "Keyboard opens Academics",
+      "focused": "Explore Academics ↗",
+      "openCount": 1
+    },
+    {
+      "name": "Escape closes and returns focus",
+      "focused": "Academics",
+      "openCount": 0
+    },
+    {
+      "name": "Find It library",
+      "results": [
+        {
+          "label": "Franco Library",
+          "url": "https://www.alvernia.edu/franco-library-alvernia-university"
+        }
+      ],
+      "serviceCards": 34
+    },
+    {
+      "name": "Find It distinct Canvas sign-ins",
+      "results": [
+        {
+          "label": "Canvas — Alvernia.edu email",
+          "url": "https://alvernia.instructure.com/login/saml"
+        },
+        {
+          "label": "Canvas — Catalog (personal email)",
+          "url": "https://alvernia.instructure.com/login/canvas"
+        }
+      ]
+    },
+    {
+      "name": "Find It empty state",
+      "empty": "No matching links. Try another name, such as Canvas, email, or library.",
+      "status": "No matching links."
+    },
+    {
+      "name": "Phone initial state",
+      "expanded": "false",
+      "hidden": true,
+      "logoWidth": 195,
+      "overflow": false
+    },
+    {
+      "name": "Phone Resources menu",
+      "currentPageLink": "classic.html",
+      "expanded": "true",
+      "open": [
+        "Resources"
+      ],
+      "overflow": false
+    },
+    {
+      "name": "Phone single-open accordion",
+      "open": [
+        "Academics"
+      ],
+      "overflow": false
+    },
+    {
+      "name": "Phone Escape returns to accordion",
+      "focused": "Academics",
+      "openCount": 0
+    },
+    {
+      "name": "Phone Escape closes main menu",
+      "expanded": "false",
+      "focused": "university-menu-toggle",
+      "hidden": true
+    },
+    {
+      "name": "Narrow phone header",
+      "headerOnOneRow": false,
+      "overflow": false
+    },
+    {
+      "name": "Tablet header",
+      "controlsHidden": true,
+      "overflow": false
+    },
+    {
+      "name": "Desktop breakpoint",
+      "findItLeft": 1041.0625,
+      "menuRight": 1019.0625,
+      "overflow": false
+    },
+    {
+      "name": "Narrow phone header after spacing fix",
+      "headerOnOneRow": true,
+      "logoWidth": 195,
+      "overflow": false
+    },
+    {
+      "name": "Tab enters dropdown links",
+      "focused": "Explore Academics ↗",
+      "tag": "A"
+    },
+    {
+      "name": "Existing directory search regression",
+      "cards": 1,
+      "names": [
+        "Self-Service"
+      ]
+    },
+    {
+      "name": "Directory empty-state reset regression",
+      "cards": 34,
+      "focused": "service-search",
+      "openMenus": 0
+    },
+    {
+      "name": "Browser console",
+      "errors": []
+    },
+    {
+      "name": "Dropdown context after capture and resize",
+      "desktop": true,
+      "open": true
+    },
+    {
+      "name": "Open dropdown preserved on resize",
+      "controlsHidden": false,
+      "menuExpanded": "true",
+      "open": true,
+      "overflow": false
+    },
+    {
+      "name": "Final phone starts collapsed",
+      "expanded": "false",
+      "hidden": true,
+      "overflow": false
+    }
+  ],
+  "finalPresentation": {
+    "date": "2026-11-09",
+    "desktop": {
+      "cards": 34,
+      "conceptBars": 0,
+      "footerText": "400 St. Bernardine Street\nReading, PA 19607\n\nAlvernia University\nUniversity resources · 2026\nTechnology support\n↗",
+      "headerTop": 0,
+      "overflow": false,
+      "title": "Logins | Alvernia University"
+    },
+    "phone": {
+      "cards": 34,
+      "conceptBars": 0,
+      "headerTop": 0,
+      "menuCollapsed": true,
+      "overflow": false
+    }
+  }
+}

@@ -1,0 +1,458 @@
+{
+  "source": "https://www.alvernia.edu/logins",
+  "captured": "2026-11-09",
+  "menus": [
+    {
+      "label": "About",
+      "url": "https://www.alvernia.edu/about",
+      "groups": [
+        {
+          "label": "Who We Are",
+          "links": [
+            {
+              "label": "A Franciscan Tradition",
+              "url": "https://www.alvernia.edu/about/franciscan-tradition"
+            },
+            {
+              "label": "Rankings & Facts",
+              "url": "https://www.alvernia.edu/about/rankings-facts"
+            },
+            {
+              "label": "History & Timeline",
+              "url": "https://www.alvernia.edu/about/history-timeline"
+            },
+            {
+              "label": "Leadership",
+              "url": "https://www.alvernia.edu/about/university-leadership"
+            },
+            {
+              "label": "Mission & Ministry",
+              "url": "https://www.alvernia.edu/student-experience/mission-ministry"
+            },
+            {
+              "label": "University Information",
+              "url": "https://www.alvernia.edu/about/university-information"
+            },
+            {
+              "label": "Work at Alvernia",
+              "url": "https://www.alvernia.edu/faculty-staff/human-resources/employment-opportunities"
+            }
+          ]
+        },
+        {
+          "label": "Community Engagement",
+          "links": [
+            {
+              "label": "CollegeTowne",
+              "url": "https://www.alvernia.edu/CollegeTowne"
+            },
+            {
+              "label": "Holleran Center for Community & Global Engagement",
+              "url": "https://www.alvernia.edu/community-engagement/holleran-center-community-and-global-engagement"
+            },
+            {
+              "label": "O'Pake Institute",
+              "url": "https://www.alvernia.edu/opake-institute"
+            },
+            {
+              "label": "Total Experience Learning",
+              "url": "https://www.alvernia.edu/TExpL"
+            },
+            {
+              "label": "Locations",
+              "url": "https://www.alvernia.edu/about/locations"
+            }
+          ]
+        },
+        {
+          "label": "Points of Pride",
+          "links": [
+            {
+              "label": "Sustainability",
+              "url": "https://www.alvernia.edu/sustainability-alvernia"
+            },
+            {
+              "label": "Culture of Care Network",
+              "url": "https://www.alvernia.edu/SOLAR"
+            },
+            {
+              "label": "Caring Faculty",
+              "url": "https://www.alvernia.edu/why-alvernia/caring-faculty"
+            },
+            {
+              "label": "Ethical Leadership",
+              "url": "https://www.alvernia.edu/why-alvernia/ethical-leadership"
+            },
+            {
+              "label": "Service Minded",
+              "url": "https://www.alvernia.edu/community-engagement/holleran-center-community-and-global-engagement/holleran-center-community-service"
+            },
+            {
+              "label": "Perfectly Located",
+              "url": "https://www.alvernia.edu/why-alvernia/perfectly-located"
+            }
+          ]
+        },
+        {
+          "label": "Quick resources",
+          "links": [
+            {
+              "label": "News",
+              "url": "https://www.alvernia.edu/alvernia-news"
+            },
+            {
+              "label": "Events",
+              "url": "https://www.alvernia.edu/events-and-venues"
+            },
+            {
+              "label": "Success Stories",
+              "url": "https://www.alvernia.edu/success-stories"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Academics",
+      "url": "https://www.alvernia.edu/academics",
+      "groups": [
+        {
+          "label": "Find Your Program",
+          "links": [
+            {
+              "label": "Undergraduate Majors",
+              "url": "https://www.alvernia.edu/undergraduate"
+            },
+            {
+              "label": "Graduate Programs",
+              "url": "https://www.alvernia.edu/academics/graduate-programs"
+            },
+            {
+              "label": "Accelerated Adult Bachelor Programs",
+              "url": "https://www.alvernia.edu/academics/accelerated-bachelor-programs"
+            },
+            {
+              "label": "Online Programs",
+              "url": "https://www.alvernia.edu/academics/alvernia-online-degrees"
+            },
+            {
+              "label": "Colleges and Schools",
+              "url": "https://www.alvernia.edu/academics/colleges-and-schools"
+            },
+            {
+              "label": "Seniors College",
+              "url": "https://www.alvernia.edu/seniors-college"
+            }
+          ]
+        },
+        {
+          "label": "Experience Learning",
+          "links": [
+            {
+              "label": "Apprenticeship to Degree",
+              "url": "https://www.alvernia.edu/student-experience/career-development/alvernia-apprenticeship-degree-program"
+            },
+            {
+              "label": "Career Development",
+              "url": "https://www.alvernia.edu/student-life/career-development"
+            },
+            {
+              "label": "Experiential Learning",
+              "url": "https://www.alvernia.edu/academics/experiential-learning"
+            },
+            {
+              "label": "O’Pake Fellows",
+              "url": "https://www.alvernia.edu/community-engagement/opake-institute/opake-experiential-learning"
+            },
+            {
+              "label": "Student Undergraduate Research Fellows (S.U.R.F.) Program",
+              "url": "https://www.alvernia.edu/student-life/student-undergraduate-research-fellows-surf"
+            },
+            {
+              "label": "Holleran Service Opportunities",
+              "url": "https://www.alvernia.edu/community-engagement/holleran-center-community-and-global-engagement/holleran-center-community-service"
+            }
+          ]
+        },
+        {
+          "label": "Quick resources",
+          "links": [
+            {
+              "label": "Academic Calendar",
+              "url": "https://www.alvernia.edu/current-students/academic-calendar"
+            },
+            {
+              "label": "Catalog and Handbooks",
+              "url": "https://www.alvernia.edu/coursecatalog"
+            },
+            {
+              "label": "Franco Library",
+              "url": "https://www.alvernia.edu/franco-library-alvernia-university"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Admissions & Aid",
+      "url": "https://www.alvernia.edu/admissions-aid",
+      "groups": [
+        {
+          "label": "Admission Pathways",
+          "links": [
+            {
+              "label": "How to Apply",
+              "url": "https://www.alvernia.edu/apply"
+            },
+            {
+              "label": "Undergraduate",
+              "url": "https://www.alvernia.edu/admissions-aid/undergraduate-admissions"
+            },
+            {
+              "label": "Graduate",
+              "url": "https://www.alvernia.edu/admissions-aid/graduate-admissions"
+            },
+            {
+              "label": "Adult Education",
+              "url": "https://www.alvernia.edu/admissions-aid/adult-education-admissions"
+            },
+            {
+              "label": "International",
+              "url": "https://www.alvernia.edu/admissions-aid/international-students"
+            },
+            {
+              "label": "Corporate Partnerships",
+              "url": "https://www.alvernia.edu/graduate-adult-education/business-and-community-partnerships"
+            },
+            {
+              "label": "Military & Veterans",
+              "url": "https://www.alvernia.edu/admissions-aid/office-student-financial-services/veterans-benefits"
+            },
+            {
+              "label": "Transfer",
+              "url": "https://www.alvernia.edu/admissions-aid/transfer-alvernia"
+            }
+          ]
+        },
+        {
+          "label": "Financial Aid",
+          "links": [
+            {
+              "label": "Student Financial Services",
+              "url": "https://www.alvernia.edu/admissions-aid/office-student-financial-services"
+            },
+            {
+              "label": "Tuition & Residential Costs",
+              "url": "https://www.alvernia.edu/tuition-residential-costs"
+            },
+            {
+              "label": "FAFSA: What You Need to Know",
+              "url": "https://www.alvernia.edu/fafsa"
+            },
+            {
+              "label": "Scholarships & Awards",
+              "url": "https://www.alvernia.edu/admissions-aid/scholarships-awards"
+            }
+          ]
+        },
+        {
+          "label": "Visit Campus",
+          "links": [
+            {
+              "label": "Graduate, Adult & Continuing Studies",
+              "url": "https://www.alvernia.edu/admissions-aid/visit/visit-graduate-adult-education"
+            },
+            {
+              "label": "Undergraduate",
+              "url": "https://www.alvernia.edu/admissions-aid/visit/undergraduate-visits"
+            }
+          ]
+        },
+        {
+          "label": "Quick resources",
+          "links": [
+            {
+              "label": "Apply Now",
+              "url": "https://www.alvernia.edu/apply"
+            },
+            {
+              "label": "Check Application Status",
+              "url": "https://www.alvernia.edu/apply"
+            },
+            {
+              "label": "Request Info",
+              "url": "https://admissions.alvernia.edu/register/alvernia-programs-info-request"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Student Experience",
+      "url": "https://www.alvernia.edu/student-experience",
+      "groups": [
+        {
+          "label": "Our Campus",
+          "links": [
+            {
+              "label": "Living on Campus",
+              "url": "https://www.alvernia.edu/student-life/residence-life-dining/residence-halls"
+            },
+            {
+              "label": "Dining Options",
+              "url": "https://www.alvernia.edu/student-experience/residence-life-dining/dining"
+            },
+            {
+              "label": "Our Community",
+              "url": "https://www.alvernia.edu/community-engagement"
+            },
+            {
+              "label": "Things to Do in the Area",
+              "url": "https://www.alvernia.edu/discover-greater-reading"
+            }
+          ]
+        },
+        {
+          "label": "Experiences",
+          "links": [
+            {
+              "label": "Get Involved",
+              "url": "https://www.alvernia.edu/get-involved"
+            },
+            {
+              "label": "Athletics & Recreation",
+              "url": "https://www.alvernia.edu/student-experience/athletics"
+            },
+            {
+              "label": "Student Organizations and Activities",
+              "url": "https://www.alvernia.edu/student-experience/student-organizations-and-activities"
+            },
+            {
+              "label": "Commuters",
+              "url": "https://www.alvernia.edu/current-students/commuter-resources"
+            },
+            {
+              "label": "International Experiences",
+              "url": "https://www.alvernia.edu/international-experiences"
+            }
+          ]
+        },
+        {
+          "label": "Support",
+          "links": [
+            {
+              "label": "SOLAR (Support, Opportunity, Love, Access, Resources) Initiative",
+              "url": "https://www.alvernia.edu/SOLAR"
+            },
+            {
+              "label": "Academic Support",
+              "url": "https://www.alvernia.edu/academics/navigation-office"
+            },
+            {
+              "label": "Medical & Counseling Center",
+              "url": "https://www.alvernia.edu/current-students/medical-and-counseling-center"
+            },
+            {
+              "label": "Community Resources",
+              "url": "https://www.alvernia.edu/community-resources"
+            },
+            {
+              "label": "Mission & Ministry",
+              "url": "https://www.alvernia.edu/student-experience/mission-ministry"
+            },
+            {
+              "label": "Office of Career Development",
+              "url": "https://www.alvernia.edu/student-experience/office-career-development"
+            }
+          ]
+        },
+        {
+          "label": "Quick resources",
+          "links": [
+            {
+              "label": "Bookstore",
+              "url": "https://www.alvernia.edu/current-students/alvernia-bookstore"
+            },
+            {
+              "label": "Arts & Culture",
+              "url": "https://www.alvernia.edu/arts-culture"
+            },
+            {
+              "label": "Athletics",
+              "url": "https://www.alvernia.edu/student-experience/athletics"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Resources",
+      "url": null,
+      "groups": [
+        {
+          "label": "Information For...",
+          "links": [
+            {
+              "label": "Future Students",
+              "url": "https://www.alvernia.edu/high-school-students"
+            },
+            {
+              "label": "New and First-Year Students",
+              "url": "https://www.alvernia.edu/student-experience/first-year-experience"
+            },
+            {
+              "label": "Graduate and Adult Students",
+              "url": "https://www.alvernia.edu/gradandadult"
+            },
+            {
+              "label": "Alumni",
+              "url": "https://www.alvernia.edu/alumni"
+            },
+            {
+              "label": "Parents and Families",
+              "url": "https://www.alvernia.edu/parents-families"
+            },
+            {
+              "label": "Community and Partners",
+              "url": "https://www.alvernia.edu/Partner"
+            }
+          ]
+        },
+        {
+          "label": "Find Us",
+          "links": [
+            {
+              "label": "Contact Us",
+              "url": "https://www.alvernia.edu/contact-us"
+            },
+            {
+              "label": "Faculty/Staff Directory",
+              "url": "https://www.alvernia.edu/faculty-staff/directory"
+            },
+            {
+              "label": "Maps & Directions",
+              "url": "https://www.alvernia.edu/maps"
+            }
+          ]
+        },
+        {
+          "label": "Quick resources",
+          "links": [
+            {
+              "label": "Logins",
+              "url": "https://www.alvernia.edu/logins"
+            },
+            {
+              "label": "Academic Calendar",
+              "url": "https://www.alvernia.edu/current-students/academic-calendar"
+            },
+            {
+              "label": "Locations",
+              "url": "https://www.alvernia.edu/about/locations"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

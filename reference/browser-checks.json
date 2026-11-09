@@ -1,0 +1,242 @@
+{
+  "browser": "Codex in-app browser",
+  "viewports": [
+    "1440x1000",
+    "768x1024",
+    "375x812"
+  ],
+  "checks": [
+    {
+      "name": "Modern email alias",
+      "count": 1,
+      "names": [
+        "Office 365"
+      ]
+    },
+    {
+      "name": "Modern combined filters exclude email",
+      "count": 0,
+      "emptyVisible": true
+    },
+    {
+      "name": "Modern source destination parity",
+      "expectedUnique": 55,
+      "missing": []
+    },
+    {
+      "name": "Canvas",
+      "count": 1
+    },
+    {
+      "name": "Modern saved persistence",
+      "saved": "true",
+      "savedCount": "1"
+    },
+    {
+      "name": "Modern tablet",
+      "cards": 27,
+      "columns": "356px 356px",
+      "overflow": false
+    },
+    {
+      "name": "Modern faculty academics",
+      "names": [
+        "AUAdvise",
+        "Bookstore",
+        "Canvas",
+        "Degree Audit uAchieve",
+        "Panopto",
+        "Transferology"
+      ]
+    },
+    {
+      "name": "Modern long name on phone",
+      "overflow": false,
+      "title": "University Credit Card Spend Management"
+    },
+    {
+      "name": "Modern keyboard shortcut",
+      "focused": "service-search"
+    },
+    {
+      "name": "Classic phone",
+      "cards": 34,
+      "overflow": false,
+      "quickBottom": 686
+    },
+    {
+      "name": "Classic combined filters",
+      "count": 1,
+      "names": [
+        "Self-Service"
+      ]
+    },
+    {
+      "name": "Classic source destination parity",
+      "missing": [],
+      "directoryLinks": 64
+    },
+    {
+      "name": "Classic saved-only",
+      "count": 1,
+      "title": "Canvas"
+    },
+    {
+      "name": "Classic saved persistence and shared stars",
+      "savedCount": "1",
+      "states": [
+        "true",
+        "true"
+      ]
+    },
+    {
+      "name": "Classic shared stars reset",
+      "states": [
+        "false",
+        "false"
+      ]
+    },
+    {
+      "name": "Blocked storage fallback",
+      "savedOnlyCanvas": true,
+      "fallbackMessage": true
+    },
+    {
+      "name": "Keyboard skip link focus",
+      "focused": "Skip to main content",
+      "outline": "solid",
+      "outlineWidth": "3px"
+    },
+    {
+      "name": "Skip link target",
+      "focused": "main"
+    },
+    {
+      "name": "Classic tablet",
+      "columns": "354px 354px",
+      "overflow": false
+    },
+    {
+      "name": "Classic long name on phone",
+      "overflow": false,
+      "title": "University Credit Card Spend Management"
+    },
+    {
+      "name": "Comparison phone",
+      "conceptLinks": [
+        "classic.html",
+        "modern.html"
+      ],
+      "overflow": false
+    },
+    {
+      "name": "Modern final phone layout",
+      "firstEssentialBottom": 715,
+      "lastEssentialBottom": 795,
+      "missingImages": 0,
+      "overflow": false
+    },
+    {
+      "name": "Reduced-motion styles present",
+      "mediaRules": [
+        "@media (prefers-reduced-motion: reduce) {\n  html { scroll-behavior: auto; }\n  *, ::before, ::after { animation: auto ease 0s 1 normal none running none !important; transition: none !important; }\n  .service-card:hover, .quick-card:hover, .button:hover { transform: none !important; }\n}",
+        "@media (prefers-reduced-motion: reduce) {\n  .modern .service-card { animation: auto ease 0s 1 normal none running none; }\n}"
+      ]
+    },
+    {
+      "name": "Classic no-results state",
+      "count": 0,
+      "emptyVisible": true,
+      "essentialsHidden": true
+    },
+    {
+      "name": "Classic empty-state reset",
+      "count": 34,
+      "focused": "service-search",
+      "searchValue": ""
+    },
+    {
+      "name": "Empty saved collection",
+      "count": 0,
+      "title": "Your shortcuts start here."
+    }
+  ],
+  "directFileBrowsing": "Not executed: browser URL policy permits only HTTP/HTTPS.",
+  "reducedMotion": "Stylesheet rules inspected; OS setting was not changed.",
+  "classicRefinement": {
+    "removedPromotionalHeadings": true,
+    "headings": [
+      "Logins",
+      "Quick links",
+      "All campus services",
+      "Technology support"
+    ],
+    "desktop": "1440x1000; 34 listings; no horizontal overflow",
+    "phone": "375x812; four quick links; no horizontal overflow",
+    "search": "email returns Office 365 for each audience"
+  },
+  "homepagePalette": {
+    "source": "https://www.alvernia.edu/themes/custom/bs5_alvernia/css/style.css?tnqtu5",
+    "desktop": {
+      "background": "rgb(243, 243, 243)",
+      "gold": "#eaaa00",
+      "maroon": "#9b2743",
+      "overflow": false,
+      "selectedBackground": "rgb(155, 39, 67)",
+      "selectedText": "rgb(255, 255, 255)",
+      "services": 34
+    },
+    "mobile": {
+      "lastQuickLinkBottom": 767,
+      "overflow": false,
+      "services": 34,
+      "width": 375
+    }
+  },
+  "readabilityAndBalancedSections": {
+    "desktop": {
+      "logoWidth": 260,
+      "overflow": false,
+      "sections": [
+        {
+          "cards": 20,
+          "columns": "592px 592px",
+          "lastRowBottomDifference": 0,
+          "name": "Students services",
+          "width": 1200
+        },
+        {
+          "cards": 14,
+          "columns": "592px 592px",
+          "lastRowBottomDifference": 0,
+          "name": "Faculty & Staff services",
+          "width": 1200
+        }
+      ],
+      "titleSize": "76px"
+    },
+    "mobile": {
+      "gridColumns": "339px",
+      "logoWidth": 195,
+      "overflow": false,
+      "titleSize": "56px",
+      "width": 375
+    },
+    "narrow": {
+      "bodyWidth": 320,
+      "overflow": false,
+      "width": 320
+    },
+    "filteredCards": {
+      "cardWidths": [
+        1200,
+        1200
+      ],
+      "listings": 2,
+      "sectionWidths": [
+        1200,
+        1200
+      ]
+    }
+  }
+}
