@@ -3,7 +3,7 @@
 A student web-design project redesigning Alvernia University's login directory. This repository includes the selected Classic page, an alternative concept, screenshots, source code, and course documentation. It is separate from the university's production website.
 
 - **GitHub:** https://github.com/ethanmarcin0/alvernia-logins-redesign
-- **GitHub Pages (publication in progress):** https://ethanmarcin0.github.io/alvernia-logins-redesign/
+- **Live website:** https://ethanmarcin0.github.io/alvernia-logins-redesign/
 - **Selected page source:** [classic.html](classic.html)
 
 The deployed root opens Classic directly. The original source `index.html` remains the offline comparison page; the deployment build also exposes it as `concepts.html`.

@@ -48,7 +48,7 @@ On November 6 the student reported that a classmate called the page a "huge impr
 - [ ] Add a focused functional peer visitor task, such as finding the appropriate Canvas sign-in without guidance, if required to satisfy the instructor's visitor-task criterion.
 - [ ] Add before screenshots of the original page, including a narrow-screen view where required. Existing screenshot files are after views.
 - [ ] Provide a 60–90 second demonstration recording or the instructor-approved in-class equivalent.
-- [ ] Confirm instructor approval of the ZIP fallback, or supply the required live website and repository URLs. No live URL or repository URL has been supplied here.
+- [x] Supply the live website and public repository URLs; both are linked in [DEPLOYMENT.md](DEPLOYMENT.md) and README.md.
 - [ ] Review [REFLECTION.md](REFLECTION.md) for accuracy and add the result if a functional peer task is completed.
 
 See [README.md](README.md) for opening instructions and [HANDOFF.md](HANDOFF.md) for integration notes. This is a design proposal for review, not an installation on Alvernia's production website.
@@ -56,3 +56,5 @@ See [README.md](README.md) for opening instructions and [HANDOFF.md](HANDOFF.md)
 ## Additional request — November 9, 2026
 
 Restore the university dropdown menus to Classic's white header, using the supplied screenshot and the current university navigation as references. Preserve the larger branding and existing directory features; support desktop and collapsed phone menus, keyboard operation, and local Find It search. Implementation and checks are recorded in T11 of TEST_LOG.md. This was a later revision, not part of the original November 5 plan.
+
+The student subsequently requested GitHub upload and deployment, explicitly choosing a public repository and public GitHub Pages site. Publication succeeded on November 9; Classic opens as the live homepage. This fulfills the live-site/repository delivery item, while the unchecked course items above remain outstanding.

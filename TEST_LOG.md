@@ -100,7 +100,7 @@ To strengthen the instructor's visitor-task evidence, ask the classmate to start
 
 ## Remaining evidence
 
-Before screenshots of the original site and a 60–90 second demonstration recording/in-class equivalent have not been supplied in this package. All current screenshots are after views. Approval of the ZIP fallback or a live-site/repository submission still needs confirmation. See the checklist in [TASK.md](TASK.md).
+Before screenshots of the original site and a 60–90 second demonstration recording/in-class equivalent have not been supplied in this package. All current screenshots are after views. The live-site/repository delivery item was subsequently completed in T13. See the checklist in [TASK.md](TASK.md).
 
 ## T11 — University header dropdowns and regression checks
 
@@ -129,3 +129,13 @@ Before screenshots of the original site and a 60–90 second demonstration recor
 **Request:** Remove the top design-concept bar so Classic presents as a finished page.  
 **Checks:** Desktop 1440 × 1000 and phone 375 × 812 show zero concept-bar elements, the university header begins at y=0, and there is no horizontal overflow. All 34 directory listings remain. The browser title is Logins | Alvernia University. Footer review/comparison wording was replaced with university-resource and technology-support wording. Academics still opens correctly.  
 **Result:** PASS. Current desktop, dropdown, phone, and full-page captures were refreshed. Project/course documentation remains separate from the page presentation.
+
+## T13 — Public GitHub and GitHub Pages publication
+
+**Tester/date:** Codex, November 9, 2026.
+
+**Authorization:** Student requested upload/deployment and selected a public repository and public GitHub Pages site.
+
+**Checks:** Local and GitHub Actions validation passed. The [deployment run](https://github.com/ethanmarcin0/alvernia-logins-redesign/actions/runs/42641184109) succeeded. Repository visibility is public; Pages uses HTTPS. Ten public pages/assets matched the local deployment build byte for byte, including the Classic homepage, comparison page, Modern alternative, styles, scripts, and logo. Browser inspection of the live root confirmed the Classic body, correct browser title, 34 listings, no concept bar, and no broken images. There was no horizontal overflow at 1440 × 1000 or 375 × 812; the phone first screen showed search, audience controls, and initial quick links.
+
+**Result:** PASS for publication and the checks above. See DEPLOYMENT.md, reference/deployment-checks.json, and screenshots/deployed-classic-{desktop,mobile}.jpg. Functional directory behavior was checked in prior entries; this deployment check does not claim a new peer session, authentication test, or full accessibility audit.

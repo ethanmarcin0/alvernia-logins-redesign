@@ -59,3 +59,7 @@ See T11 in TEST_LOG.md and reference/navigation-browser-checks.json. The product
 ## Final presentation — November 9
 
 Classic's top concept bar is absent on desktop and phone, with the university header at y=0 and no horizontal overflow. Its browser title and footer no longer contain version/comparison labels. All 34 listings remain and the Academics dropdown still opens. Refreshed current overviews: classic-desktop.jpg, classic-desktop-navigation.jpg, classic-mobile.jpg, and classic-navigation-full.jpg. Earlier directory/lower-page captures remain as evidence of prior layout checks.
+
+## Public deployment — November 9
+
+GitHub Actions validation and Pages deployment succeeded. Ten public HTML/assets matched the checked build byte for byte; reference/deployment-checks.json records their hashes and the deployment run. Live browser inspection confirmed Classic at the root, all 34 listings, the final browser title, no concept bar, and no broken images. Desktop 1440 × 1000 and phone 375 × 812 had no horizontal overflow. The phone first screen includes the search, audience filters, and initial quick links. Published screenshots are deployed-classic-desktop.jpg and deployed-classic-mobile.jpg. See DEPLOYMENT.md and T13 in TEST_LOG.md for URLs and scope.
